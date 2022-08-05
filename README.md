@@ -10,10 +10,8 @@ This is an e-commerce website for a fictional company selling sunglasses
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
@@ -37,8 +35,6 @@ Design a functional shopping cart using HTML, CSS and vanilla JavaScript.
 - Semantic HTML5 markup
 - CSS
 - JavaScript
-
-### What I learned
 
 ### Continued development
 
