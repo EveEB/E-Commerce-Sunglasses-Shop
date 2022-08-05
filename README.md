@@ -26,7 +26,7 @@ Design a functional shopping cart using HTML, CSS and vanilla JavaScript.
 
 ### Links
 
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://eveeb.github.io/E-Commerce-Sunglasses-Shop/)
 
 ## My process
 
