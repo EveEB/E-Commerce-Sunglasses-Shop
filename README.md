@@ -52,4 +52,4 @@ I would like to develop this project further by building a more complex shopping
 
 ## Acknowledgments
 
-Thanks to freeCodeCamp and Web Dev Simplified for inspiration on building the initial stages of the shopping cart.
+Thanks to freeCodeCamp and Web Dev Simplified for styling ideas and inspiration on building the initial stages of the shopping cart.
